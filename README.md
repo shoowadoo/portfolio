@@ -32,4 +32,6 @@ Yiddish Translation Model
 ### Publications 
 Developing a Universal Dependenices Treebank for Alaskan Gwich'in
 
-### Other
+### Other Skills
+- German, Advanced fluency (C1)
+- Yiddish, Intermediate
