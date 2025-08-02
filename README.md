@@ -1,5 +1,5 @@
 # Data Scientist
-Skills: Python, Java, SQL, German, Yiddish
+Technical Skills: Python, Transformers, Java, SQL
 
 ### Education
 - M.A., Natural Language Processing | The University of Tübingen (2025)  
