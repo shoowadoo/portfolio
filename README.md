@@ -22,7 +22,7 @@ Speech Therapist, CCC-SLP
   - Assess patients' esophageal and swallowing function with video X-ray
  
 ESL Teacher
-- Freelance English as a Second Language Teacher in Germany and South Africa
+- Freelance English as a second language teacher in Germany and South Africa
 
 ### Projects
 Yiddish Transliteration Model  
