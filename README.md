@@ -11,7 +11,7 @@ German, B.A.
 Teaching Assistant 
 - Introduction to Linguistics, University of Tübingen
 
-Speech-language pathologist 
+Speech-language pathologist, CCC-SLP
 - Fairbanks North Star Borough School District
 - Anchorage School District
 
