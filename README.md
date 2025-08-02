@@ -6,8 +6,10 @@
 - B.A., German Linguistics | The University of Florida (2007)  
 
 ### Work Experience
-Teaching Assistant
-- Introduction to Linguistics, University of Tübingen
+Teaching Assistant @ University of Tübingen
+- Taught two weekly tutorials in Introduction to Computational Linguistics
+- Designed weekly linguistic and programming exercises
+- Graded weekly assignments and final exam for 50+ students
 
 Speech Therapist, CCC-SLP
 - Anchorage School District (2020-2021)
