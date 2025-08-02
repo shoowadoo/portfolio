@@ -12,14 +12,16 @@ Teaching Assistant
 - Introduction to Linguistics, University of Tübingen
 
 Speech Therapist, CCC-SLP
-- Anchorage School District
-  - Created digital task cards for home practice during COVID
-- Fairbanks North Star Borough School District
+- Anchorage School District (2020-2021)
+  - Created digital task cards for teletherapy and home practice during COVID
+- Fairbanks North Star Borough School District (2017-2020)
   - Managed 70+ student caseload
   - Taught assistive technology continuing education class to colleagues
   - Recess duty at 20 below zero degrees
-- Alaska Native Medical Center
+- Alaska Native Medical Center (2016)
   - Assess patients' esophageal and swallowing function with video X-ray
+ 
+ESL Teacher 
 
 ### Projects
 Yiddish Transliteration Model  
