@@ -13,8 +13,7 @@ Teaching Assistant
 
 Speech Therapist, CCC-SLP
 - Anchorage School District
-  - Provide teletherapy to students during COVID
-  - Created digital task cards for home practice
+  - Created digital task cards for home practice during COVID
 - Fairbanks North Star Borough School District
   - Managed 70+ student caseload
   - Taught assistive technology continuing education class to colleagues
