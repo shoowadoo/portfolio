@@ -12,19 +12,19 @@ Teaching Assistant
 - Introduction to Linguistics, University of Tübingen
 
 Speech Therapist, CCC-SLP
-- Alaska Native Medical Center
+- Anchorage School District
+  - Provide teletherapy to students during COVID
+  - Created digital task cards for home practice
 - Fairbanks North Star Borough School District
   - Managed 70+ student caseload
-  - Taught Assistive Technology Continuing Education Class
-- Anchorage School District
+  - Taught assistive technology continuing education class to colleagues
+  - Recess duty at 20 below zero degrees
+- Alaska Native Medical Center
+  - Assess patients' esophageal and swallowing function with video X-ray
 
 ### Projects
-Gwich'in Dictionary  
 Yiddish Transliteration Model  
 Yiddish Translation Model  
-Gwich'in Treebank Corpus  
-Yiddish Treebank Corpus  
-Pick A Tarot Card App  
 
 ### Publications 
 Developing a Universal Dependenices Treebank for Alaskan Gwich'in
