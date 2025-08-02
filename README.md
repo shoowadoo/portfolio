@@ -2,7 +2,7 @@
 
 ### Education
 - M.A., Natural Language Processing | The University of Tübingen (2025)  
-- M.S., Speech-Languaeg Pathology | Northeastern State University (2017)  
+- M.S., Speech-Language Pathology | Northeastern State University (2017)  
 - B.A., German Linguistics | The University of Florida (2007)  
 
 ### Work Experience
