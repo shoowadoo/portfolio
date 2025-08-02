@@ -25,3 +25,5 @@ Pick A Tarot Card App
 
 ### Publications 
 Developing a Universal Dependenices Treebank for Alaskan Gwich'in
+
+### Other
