@@ -1,4 +1,5 @@
-# portfolio
+# Data Scientist
+Skills: Python, Java, SQL, German, Yiddish
 
 ### Education
 - M.A., Natural Language Processing | The University of Tübingen (2025)  
