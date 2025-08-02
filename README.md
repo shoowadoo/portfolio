@@ -6,7 +6,7 @@
 - B.A., German Linguistics | The University of Florida (2007)  
 
 ### Work Experience
-Teaching Assistant @ University of Tübingen
+Teaching Assistant @ University of Tübingen (2023-2024)
 - Taught two weekly tutorials in Introduction to Computational Linguistics
 - Designed weekly linguistic and programming exercises
 - Graded weekly assignments and final exam for 50+ students
@@ -21,7 +21,8 @@ Speech Therapist, CCC-SLP
 - Alaska Native Medical Center (2016)
   - Assess patients' esophageal and swallowing function with video X-ray
  
-ESL Teacher 
+ESL Teacher
+- Freelance English as a Second Language Teacher in Germany and South Africa
 
 ### Projects
 Yiddish Transliteration Model  
