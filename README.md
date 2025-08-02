@@ -1,18 +1,21 @@
 # portfolio
 
 ### Education
-Computational Linguistics, M.A.
+M.A., Natural Language Processing | The University of Tübingen (2025)
 
-Speech-Language Pathology, M.S.
+M.S., Speech-Languaeg Pathology | Northeastern State University (2017)
 
-German, B.A.
+B.A., German Linguistics | The University of Florida (2007)
 
 ### Work Experience
-Teaching Assistant 
+Teaching Assistant
 - Introduction to Linguistics, University of Tübingen
 
-Speech-language pathologist, CCC-SLP
+Speech Therapist, CCC-SLP
+- Alaska Native Medical Center
 - Fairbanks North Star Borough School District
+  - Managed 70+ student caseload
+  - Taught Assistive Technology Continuing Education Class
 - Anchorage School District
 
 ### Projects
