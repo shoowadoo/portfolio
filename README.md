@@ -30,7 +30,7 @@ Yiddish Transliteration Model
 Yiddish Translation Model  
 
 ### Publications 
-Developing a Universal Dependenices Treebank for Alaskan Gwich'in
+Matthew Kirk Andrews and Cagri Coltekin. 2025. Developing a Universal Dependencies Treebank for Alaskan Gwich’in. In Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025), pages 164–173, Ljubljana, Slovenia. Association for Computational Linguistics.
 
 ### Other Skills
 - German, Advanced fluency (C1)
