@@ -1,1 +1,7 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* kill the footer on all Minimal variants */
+.site-footer, footer, .footer, #footer { display: none !important; }
 
