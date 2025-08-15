@@ -1,4 +1,4 @@
-# Data Scientist
+# Computational Linguist
 Technical Skills: Python, Transformers, Java, SQL
 
 ### Education
