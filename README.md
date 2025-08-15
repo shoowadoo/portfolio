@@ -18,7 +18,7 @@ Speech Therapist, CCC-SLP
 - Fairbanks North Star Borough School District (2017-2020)
   - Managed 70+ student caseload
   - Taught assistive technology continuing education class to colleagues
-  - Recess duty at 20 below zero degrees
+  - Recess duty at -20°F/-29°C
 - Alaska Native Medical Center (2016)
   - Assess patients' esophageal and swallowing function with video X-ray
  
